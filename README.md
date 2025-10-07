@@ -4,6 +4,9 @@ A playful, practitioner-first glossary of AI/ML terms I actually use. Plain Engl
 
 Minimal fluff, maximum signal. When it helps, I drop tiny Python snippets, gotchas, and the occasional “don’t overfit, Morty” so you can apply ideas immediately.
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_o1sm9bo1sm9bo1sm" src="https://github.com/user-attachments/assets/8ee1fffd-4056-4cce-a54f-c18d72e360c4" />
+
+
 __Table of Contents__
 <!-- RM(noparent,notop) -->
 
